@@ -1,0 +1,37 @@
+  -- -----------
+   1 cd
+   2 cd .\Desktop\
+   3 cd rr
+   4 git merge master
+   5 get merge main
+   6 git merge main
+   7 git checkout main
+   8 git status
+   9 git add .
+  10 git commit -m 'merge changes'
+  11 git remote -v
+  12 git branch
+  13 git fetch origin
+  14 git checkout main
+  15 git checkout -b main origin/main
+  16 git branch
+  17 git merge master
+  18 git merge main
+  19 git checkout master
+  20 git merge main
+  21 gir merge master
+  22 git merge master
+  23 git checkout main
+  24 git merge master
+  25 git add .
+  26 git commit -m "Merge changes from master into main"
+  27 git branch
+  28 git fetch --all
+  29 git fetch --all
+  30 git checkout main
+  31 git merge master
+  32 git push origin main
+  33 git merge master --allow-unrelated-histories
+  34 git add .
+  35 git commit -m "Merge changes from master into main"
+  36 git push origin main
